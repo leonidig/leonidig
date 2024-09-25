@@ -48,9 +48,6 @@
 </div>
 
 
-Этот стиль выглядит более профессионально и красочно. Попробуй такие варианты!
-
-
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=leonidig&theme=dark)
 <br><br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonidig&show_icons=true&theme=dark)

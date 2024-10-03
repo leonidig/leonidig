@@ -44,6 +44,8 @@
   <br>
 
   <img src="https://img.shields.io/badge/TeleBot-3.8-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup4-4.9.3-green?style=for-the-badge&logo=python&logoColor=white"/>
+
 
 </div>
 

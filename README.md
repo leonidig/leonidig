@@ -46,8 +46,13 @@
   <img src="https://img.shields.io/badge/TeleBot-3.8-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/BeautifulSoup4-4.9.3-green?style=for-the-badge&logo=python&logoColor=white"/>
 
+  <br>
+  
+  <img src="https://img.shields.io/badge/Pandas-1.3.3-#150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Poetry-1.1.6-#0c3f4f?style=for-the-badge&logo=poetry&logoColor=white"/>
 
 </div>
+
 
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=leonidig&theme=dark)
